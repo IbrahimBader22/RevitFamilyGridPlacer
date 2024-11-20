@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Family Grid Placer</Name>
+		<Assembly>C:\Users\USER\source\repos\RevitFamilyGridPlacer\bin\Debug\RevitFamilyGridPlacer.dll</Assembly>
+		<AddInId>B1AC769B-D45B-4677-A39F-6C5E3BB1361A</AddInId>
+		<FullClassName>RevitFamilyGridPlacer.Application</FullClassName>
+		<VendorId>Autotech</VendorId>
+		<VendorDescription>Autotech Tools</VendorDescription>
+	</AddIn>
+</RevitAddIns>
